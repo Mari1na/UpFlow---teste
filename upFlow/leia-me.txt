@@ -1,0 +1,11 @@
+Liguagens usadas:
+JavaScript, HTML
+
+Ferramentas de suporte usadas:
+Visual Studio Code [Administrator] - Live Server
+Biblioteca de estilo Bootstrap
+
+Imagens com direitos autorais:
+Ícone: 
+Background: 
+
